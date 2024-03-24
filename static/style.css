@@ -1,0 +1,12 @@
+body{
+    font-family: "Comic Sans MS";
+    color:pink;
+    font-size: 50px;
+    background-color: lightgreen;
+}
+
+p {
+    color: red;
+    font-size: 25px;
+    margin-left: 10px;
+}
